@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "1.0">
+   <FileBreakpoints>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "VideoPlayback/Classes/apps/VideoPlayback/VideoPlaybackEAGLView.mm"
+         timestampString = "413455275.158579"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "1403"
+         endingLineNumber = "1403">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "VideoPlayback/Classes/apps/VideoPlayback/VideoPlaybackEAGLView.mm"
+         timestampString = "413361127.947104"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "648"
+         endingLineNumber = "648"
+         landmarkName = "-renderFrameQCAR"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "VideoPlayback/Classes/apps/VideoPlayback/VideoPlaybackEAGLView.mm"
+         timestampString = "413373515.249709"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "625"
+         endingLineNumber = "625"
+         landmarkName = "-renderFrameQCAR"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "VideoPlayback/Classes/apps/VideoPlayback/VideoPlaybackEAGLView.mm"
+         timestampString = "413374116.420196"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "1099"
+         endingLineNumber = "1099"
+         landmarkName = "-videoButtonPressed:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "VideoPlayback/Classes/apps/VideoPlayback/VideoPlaybackEAGLView.mm"
+         timestampString = "413455275.158579"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "1139"
+         endingLineNumber = "1139"
+         landmarkName = "-videoButtonPressed:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "VideoPlayback/Classes/apps/VideoPlayback/VideoPlaybackEAGLView.mm"
+         timestampString = "413455275.158579"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "1153"
+         endingLineNumber = "1153"
+         landmarkName = "-moviePlayBackDidFinish:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "VideoPlayback/Classes/apps/VideoPlayback/VideoPlaybackEAGLView.mm"
+         timestampString = "413455275.158579"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "1179"
+         endingLineNumber = "1179"
+         landmarkName = "-MPMoviePlayerNowPlayingMovieDidChangeNotification:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "VideoPlayback/Classes/apps/VideoPlayback/VideoPlaybackEAGLView.mm"
+         timestampString = "413455275.158579"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "1316"
+         endingLineNumber = "1316"
+         landmarkName = "-moviePlayerPlaybackStateChanged:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "VideoPlayback/Classes/apps/VideoPlayback/VideoPlaybackEAGLView.mm"
+         timestampString = "413460958.395321"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "636"
+         endingLineNumber = "636"
+         landmarkName = "-renderFrameQCAR"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "VideoPlayback/Classes/apps/VideoPlayback/VideoPlaybackEAGLView.mm"
+         timestampString = "413461342.252432"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "1073"
+         endingLineNumber = "1073"
+         landmarkName = "-videoButtonPressed:"
+         landmarkType = "5">
+      </FileBreakpoint>
+   </FileBreakpoints>
+</Bucket>
